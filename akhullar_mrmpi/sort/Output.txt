@@ -1,0 +1,14 @@
+Map KV = 1609664 pairs, 8.83 Mb keys, 0 Mb values, 21.1 Mb, 6 pages
+Collate KMV = 49544 pairs, 0.397 Mb keys, 0 Mb values, 7.1 Mb, 6 pages
+Collate Comm = 17.8 Mb send, 17.8 Mb recv
+Reduce KV = 49544 pairs, 0.397 Mb keys, 0.189 Mb values, 0.964 Mb, 6 pages
+Gather KV = 49544 pairs, 0.397 Mb keys, 0.189 Mb values, 0.964 Mb, 6 pages
+Gather Comm = 0.864 Mb send, 0.864 Mb recv
+Sort_keys KV = 49544 pairs, 0.397 Mb keys, 0.189 Mb values, 0.964 Mb, 6 pages
+MR stats = 7 max pages any proc, 448 Mb, 0 Mb max file size all procs
+MapReduce-MPI (7 Apr 2014)
+Cummulative hi-water mem = 448 Mb any proc, 2.62 Gb all procs
+Cummulative comm = 18.6 Mb send, 18.6 Mb recv, 0.0543 secs
+------------------------------------------------
+1609664 total words, 49544 unique words
+------------------------------------------------

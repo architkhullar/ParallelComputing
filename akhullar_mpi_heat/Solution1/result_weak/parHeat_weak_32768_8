@@ -1,0 +1,44 @@
+[mba-c5:102882] *** Process received signal ***
+[mba-c5:102882] Signal: Segmentation fault (11)
+[mba-c5:102882] Signal code: Address not mapped (1)
+[mba-c5:102882] Failing at address: 0x2ac957849010
+[mba-c5:102882] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2ac9965475e0]
+[mba-c5:102882] [ 1] ./parHeat[0x408d8a]
+[mba-c5:102882] [ 2] ./parHeat[0x4090ae]
+[mba-c5:102882] [ 3] ./parHeat[0x40894e]
+[mba-c5:102882] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ac996775c05]
+[mba-c5:102882] [ 5] ./parHeat[0x408a1f]
+[mba-c5:102882] *** End of error message ***
+[mba-c4:84363] *** Process received signal ***
+[mba-c4:84363] Signal: Segmentation fault (11)
+[mba-c4:84363] Signal code: Address not mapped (1)
+[mba-c4:84363] Failing at address: 0x2b60ebdbb010
+[mba-c4:84363] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b616aab95e0]
+[mba-c4:84363] [ 1] ./parHeat[0x408d8a]
+[mba-c4:84363] [ 2] ./parHeat[0x4090ae]
+[mba-c4:84363] [ 3] ./parHeat[0x40894e]
+[mba-c4:84363] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b616ace7c05]
+[mba-c4:84363] [ 5] ./parHeat[0x408a1f]
+[mba-c4:84363] *** End of error message ***
+[mba-c4:84359] *** Process received signal ***
+[mba-c4:84359] Signal: Segmentation fault (11)
+[mba-c4:84359] Signal code: Address not mapped (1)
+[mba-c4:84359] Failing at address: 0x2b7666c55010
+[mba-c4:84359] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b76e59535e0]
+[mba-c4:84359] [ 1] ./parHeat[0x408d8a]
+[mba-c4:84359] [ 2] ./parHeat[0x4090ae]
+[mba-c4:84359] [ 3] ./parHeat[0x40894e]
+[mba-c4:84359] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b76e5b81c05]
+[mba-c4:84359] [ 5] ./parHeat[0x408a1f]
+[mba-c4:84359] *** End of error message ***
+[mba-c4:84360] *** Process received signal ***
+[mba-c4:84360] Signal: Segmentation fault (11)
+[mba-c4:84360] Signal code: Address not mapped (1)
+[mba-c4:84360] Failing at address: 0x2aec5a144010
+[mba-c4:84360] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2aec98e425e0]
+[mba-c4:84360] [ 1] ./parHeat[0x408d8a]
+[mba-c4:84360] [ 2] ./parHeat[0x4090ae]
+[mba-c4:84360] [ 3] ./parHeat[0x40894e]
+[mba-c4:84360] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2aec99070c05]
+[mba-c4:84360] [ 5] ./parHeat[0x408a1f]
+[mba-c4:84360] *** End of error message ***

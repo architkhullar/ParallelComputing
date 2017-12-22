@@ -1,0 +1,93 @@
+[mba-c5:102867] *** Process received signal ***
+[mba-c5:102867] Signal: Segmentation fault (11)
+[mba-c5:102867] Signal code: Address not mapped (1)
+[mba-c5:102867] Failing at address: 0x2b9c61339010
+[mba-c5:102867] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b9ca00375e0]
+[mba-c5:102867] [ 1] ./parHeat[0x408d8a]
+[mba-c5:102867] [ 2] ./parHeat[0x4090ae]
+[mba-c5:102867] [ 3] ./parHeat[0x40894e]
+[mba-c5:102867] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9ca0265c05]
+[mba-c5:102867] [ 5] ./parHeat[0x408a1f]
+[mba-c5:102867] *** End of error message ***
+[mba-c5:102868] *** Process received signal ***
+[mba-c5:102868] Signal: Segmentation fault (11)
+[mba-c5:102868] Signal code: Address not mapped (1)
+[mba-c5:102868] Failing at address: 0x2ae3d8dde010
+[mba-c5:102868] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2ae3f7adc5e0]
+[mba-c5:102868] [ 1] ./parHeat[0x408d8a]
+[mba-c5:102868] [ 2] [mba-c8:28748] *** Process received signal ***
+[mba-c8:28748] Signal: Segmentation fault (11)
+[mba-c8:28748] Signal code: Address not mapped (1)
+[mba-c8:28748] Failing at address: 0x2adae6aa1010
+[mba-c8:28748] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2adb0579f5e0]
+[mba-c8:28748] [ 1] ./parHeat[0x408d8a]
+[mba-c8:28748] [ 2] ./parHeat[0x4090ae]
+[mba-c8:28748] [ 3] ./parHeat[0x40894e]
+[mba-c8:28748] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2adb059cdc05]
+[mba-c8:28748] [ 5] ./parHeat[0x408a1f]
+[mba-c8:28748] *** End of error message ***
+./parHeat[0x4090ae]
+[mba-c5:102868] [ 3] ./parHeat[0x40894e]
+[mba-c5:102868] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ae3f7d0ac05]
+[mba-c5:102868] [ 5] ./parHeat[0x408a1f]
+[mba-c5:102868] *** End of error message ***
+[mba-c7:54425] *** Process received signal ***
+[mba-c7:54425] Signal: Segmentation fault (11)
+[mba-c7:54425] Signal code: Address not mapped (1)
+[mba-c7:54425] Failing at address: 0x2b17756a0010
+[mba-c7:54425] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b17b439e5e0]
+[mba-c7:54425] [ 1] ./parHeat[0x408d8a]
+[mba-c7:54425] [ 2] ./parHeat[0x4090ae]
+[mba-c7:54425] [ 3] ./parHeat[0x40894e]
+[mba-c7:54425] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b17b45ccc05]
+[mba-c7:54425] [ 5] ./parHeat[0x408a1f]
+[mba-c7:54425] *** End of error message ***
+[mba-c4:84269] *** Process received signal ***
+[mba-c4:84269] Signal: Segmentation fault (11)
+[mba-c4:84269] Signal code: Address not mapped (1)
+[mba-c4:84269] Failing at address: 0x2b22abfe6010
+[mba-c4:84269] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b22cace45e0]
+[mba-c4:84269] [ 1] ./parHeat[0x408d8a]
+[mba-c4:84269] [ 2] ./parHeat[0x4090ae]
+[mba-c4:84269] [ 3] ./parHeat[0x40894e]
+[mba-c4:84269] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b22caf12c05]
+[mba-c4:84269] [ 5] ./parHeat[0x408a1f]
+[mba-c4:84269] *** End of error message ***
+[mba-c4:84272] *** Process received signal ***
+[mba-c4:84272] Signal: Segmentation fault (11)
+[mba-c4:84272] Signal code: Address not mapped (1)
+[mba-c4:84272] Failing at address: 0x2ae0e1d41010
+[mba-c4:84272] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2ae120a3f5e0]
+[mba-c4:84272] [ 1] ./parHeat[0x408d8a]
+[mba-c4:84272] [ 2] ./parHeat[0x4090ae]
+[mba-c4:84272] [ 3] ./parHeat[0x40894e]
+[mba-c4:84272] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2ae120c6dc05]
+[mba-c4:84272] [ 5] ./parHeat[0x408a1f]
+[mba-c4:84272] *** End of error message ***
+[mba-c4:84268] *** Process received signal ***
+[mba-c4:84268] Signal: Segmentation fault (11)
+[mba-c4:84268] Signal code: Address not mapped (1)
+[mba-c4:84268] Failing at address: 0x2af93ef71010
+[mba-c4:84268] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2af97dc6f5e0]
+[mba-c4:84268] [ 1] ./parHeat[0x408d8a]
+[mba-c4:84268] [ 2] ./parHeat[0x4090ae]
+[mba-c4:84268] [ 3] ./parHeat[0x40894e]
+[mba-c4:84268] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2af97de9dc05]
+[mba-c4:84268] [ 5] ./parHeat[0x408a1f]
+[mba-c4:84268] *** End of error message ***
+[mba-c4:84273] *** Process received signal ***
+[mba-c4:84273] Signal: Segmentation fault (11)
+[mba-c4:84273] Signal code: Address not mapped (1)
+[mba-c4:84273] Failing at address: 0x2aaf2ec6d010
+[mba-c4:84273] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2aaf4d96b5e0]
+[mba-c4:84273] [ 1] ./parHeat[0x408d8a]
+[mba-c4:84273] [ 2] ./parHeat[0x4090ae]
+[mba-c4:84273] [ 3] ./parHeat[0x40894e]
+[mba-c4:84273] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2aaf4db99c05]
+[mba-c4:84273] [ 5] ./parHeat[0x408a1f]
+[mba-c4:84273] *** End of error message ***
+[mba-c5][[61210,1],9][../../../../../../openmpi-1.10.0/ompi/mca/btl/tcp/btl_tcp_endpoint.c:618:mca_btl_tcp_endpoint_recv_blocking] recv(13, 0/8) failed: Connection reset by peer (104)
+[mba-c7][[61210,1],13][../../../../../../openmpi-1.10.0/ompi/mca/btl/tcp/btl_tcp_endpoint.c:618:mca_btl_tcp_endpoint_recv_blocking] recv(13, 0/8) failed: Connection reset by peer (104)
+[mba-c5.uncc.edu:102866] ../../../../../../openmpi-1.10.0/ompi/mca/pml/ob1/pml_ob1_sendreq.c:232 FATAL
+[mba-c7.uncc.edu:54424] ../../../../../../openmpi-1.10.0/ompi/mca/pml/ob1/pml_ob1_sendreq.c:232 FATAL
+[mba-c5][[61210,1],12][../../../../../../openmpi-1.10.0/ompi/mca/btl/tcp/btl_tcp_endpoint.c:818:mca_btl_tcp_endpoint_complete_connect] connect() to 192.168.150.4 failed: Connection refused (111)

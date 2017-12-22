@@ -1,0 +1,2 @@
+
+mpirun  ./histogram gutenberg.txt

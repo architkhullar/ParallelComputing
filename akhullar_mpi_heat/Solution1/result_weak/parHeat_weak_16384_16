@@ -1,0 +1,88 @@
+[mba-c4:84080] *** Process received signal ***
+[mba-c4:84080] Signal: Segmentation fault (11)
+[mba-c4:84080] Signal code: Address not mapped (1)
+[mba-c4:84080] Failing at address: 0x2b97f285c010
+[mba-c4:84080] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b980953a5e0]
+[mba-c4:84080] [ 1] ./parHeat[0x408d8a]
+[mba-c4:84080] [ 2] ./parHeat[0x4090ae]
+[mba-c4:84080] [ 3] ./parHeat[0x40894e]
+[mba-c4:84080] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b9809768c05]
+[mba-c4:84080] [ 5] ./parHeat[0x408a1f]
+[mba-c4:84080] *** End of error message ***
+[mba-c4:84082] *** Process received signal ***
+[mba-c4:84082] Signal: Segmentation fault (11)
+[mba-c4:84082] Signal code: Address not mapped (1)
+[mba-c4:84082] Failing at address: 0x2b2257fda010
+[mba-c4:84082] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b225ecb85e0]
+[mba-c4:84082] [ 1] ./parHeat[0x408d8a]
+[mba-c4:84082] [ 2] ./parHeat[0x4090ae]
+[mba-c4:84082] [ 3] ./parHeat[0x40894e]
+[mba-c4:84082] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b225eee6c05]
+[mba-c4:84082] [ 5] ./parHeat[0x408a1f]
+[mba-c4:84082] *** End of error message ***
+[mba-c4:84081] *** Process received signal ***
+[mba-c4:84081] Signal: Segmentation fault (11)
+[mba-c4:84081] Signal code: Address not mapped (1)
+[mba-c4:84081] Failing at address: 0x2b4bb76b3010
+[mba-c4:84081] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b4bc63915e0]
+[mba-c4:84081] [ 1] ./parHeat[0x408d8a]
+[mba-c4:84081] [ 2] ./parHeat[0x4090ae]
+[mba-c4:84081] [ 3] ./parHeat[0x40894e]
+[mba-c4:84081] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b4bc65bfc05]
+[mba-c4:84081] [ 5] ./parHeat[0x408a1f]
+[mba-c4:84081] *** End of error message ***
+[mba-c1:85057] *** Process received signal ***
+[mba-c1:85057] Signal: Segmentation fault (11)
+[mba-c1:85057] Signal code: Address not mapped (1)
+[mba-c1:85057] Failing at address: 0x2b8315af6010
+[mba-c1:85057] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b83547d45e0]
+[mba-c1:85057] [ 1] ./parHeat[0x408d8a]
+[mba-c1:85057] [ 2] ./parHeat[0x4090ae]
+[mba-c1:85057] [ 3] ./parHeat[0x40894e]
+[mba-c1:85057] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b8354a02c05]
+[mba-c1:85057] [ 5] ./parHeat[0x408a1f]
+[mba-c1:85057] *** End of error message ***
+[mba-c1:85060] *** Process received signal ***
+[mba-c1:85060] Signal: Segmentation fault (11)
+[mba-c1:85060] Signal code: Address not mapped (1)
+[mba-c1:85060] Failing at address: 0x2b0c100f7010
+[mba-c1:85060] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b0c36dd55e0]
+[mba-c1:85060] [ 1] ./parHeat[0x408d8a]
+[mba-c1:85060] [ 2] ./parHeat[0x4090ae]
+[mba-c1:85060] [ 3] ./parHeat[0x40894e]
+[mba-c1:85060] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b0c37003c05]
+[mba-c1:85060] [ 5] ./parHeat[0x408a1f]
+[mba-c1:85060] *** End of error message ***
+[mba-c1:85061] *** Process received signal ***
+[mba-c1:85061] Signal: Segmentation fault (11)
+[mba-c1:85061] Signal code: Address not mapped (1)
+[mba-c1:85061] Failing at address: 0x2b73e6c60010
+[mba-c1:85061] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b740593e5e0]
+[mba-c1:85061] [ 1] ./parHeat[0x408d8a]
+[mba-c1:85061] [ 2] ./parHeat[0x4090ae]
+[mba-c1:85061] [ 3] ./parHeat[0x40894e]
+[mba-c1:85061] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b7405b6cc05]
+[mba-c1:85061] [ 5] ./parHeat[0x408a1f]
+[mba-c1:85061] *** End of error message ***
+[mba-c1:85059] *** Process received signal ***
+[mba-c1:85059] Signal: Segmentation fault (11)
+[mba-c1:85059] Signal code: Address not mapped (1)
+[mba-c1:85059] Failing at address: 0x2afd011cc010
+[mba-c1:85059] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2afd2feaa5e0]
+[mba-c1:85059] [ 1] ./parHeat[0x408d8a]
+[mba-c1:85059] [ 2] ./parHeat[0x4090ae]
+[mba-c1:85059] [ 3] ./parHeat[0x40894e]
+[mba-c1:85059] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2afd300d8c05]
+[mba-c1:85059] [ 5] ./parHeat[0x408a1f]
+[mba-c1:85059] *** End of error message ***
+[mba-c1:85058] *** Process received signal ***
+[mba-c1:85058] Signal: Segmentation fault (11)
+[mba-c1:85058] Signal code: Address not mapped (1)
+[mba-c1:85058] Failing at address: 0x2b791c286010
+[mba-c1:85058] [ 0] /lib64/libpthread.so.0(+0xf5e0)[0x2b7952f645e0]
+[mba-c1:85058] [ 1] ./parHeat[0x408d8a]
+[mba-c1:85058] [ 2] ./parHeat[0x4090ae]
+[mba-c1:85058] [ 3] ./parHeat[0x40894e]
+[mba-c1:85058] [ 4] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b7953192c05]
+[mba-c1:85058] [ 5] ./parHeat[0x408a1f]
+[mba-c1:85058] *** End of error message ***
